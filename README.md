@@ -9,6 +9,7 @@
 - SQL
 - HTML
 - CSS
+- Excel
 - OpenCV
 - YOLOv10
 
