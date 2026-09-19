@@ -1,4 +1,22 @@
-## Hi there 👋
+# Hi, I'm Mohammed Rayyan Habeeb 👋
+
+🎓 Computer Science Engineering Graduate
+💻 Aspiring Software Developer
+🐍 Currently learning Python Full Stack Development
+
+### Skills
+- Python
+- SQL
+- HTML
+- CSS
+- OpenCV
+- YOLOv10
+
+### Projects
+- Real-Time Fire and Smoke Detection Using YOLOv10
+
+### Currently Learning
+- Python Full Stack Development
 
 <!--
 **mohdrayyanhabeeb/mohdrayyanhabeeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
